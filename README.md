@@ -49,15 +49,6 @@ Sempre aprendendo, sempre crescendo — um commit de cada vez.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caioapdp&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioapdp&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Principles
 
 > _"Código não é só sobre resolver problemas.  
