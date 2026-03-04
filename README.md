@@ -1,7 +1,7 @@
 # Olá 👋,eu sou o Caio de Paula 
 
 
-🚀 ** Treinee Software Engineer | Java**  
+🚀 **Treinee Software Engineer | Java**  
 🇧🇷 Brazil
 
 Sou um **Desenvolvedor Júnior** em constante evolução.  
