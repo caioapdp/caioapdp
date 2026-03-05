@@ -1,4 +1,4 @@
-# Olá 👋,eu sou o Caio 
+# Olá 👋,eu sou Caio 
 
 🚀 **Treinee Software Engineer | Java**  
 🇧🇷 Brazil
