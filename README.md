@@ -4,7 +4,7 @@
 🇧🇷 Brazil
 
 Sou um **Desenvolvedor Júnior** em constante evolução.  
-E estou aprofundando meus conhecimentos em **desenvolvimento de software, boas práticas e código limpo**.
+E estou aprofundando meus conhecimentos em backand, pois sempre gostei de entender como as coisas funciona e qual a função de cada componente da parte interna para externa em um sistema.
 
 Sempre aprendendo, sempre crescendo — um commit de cada vez.
 
