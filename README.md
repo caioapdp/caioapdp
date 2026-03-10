@@ -55,6 +55,5 @@ Sempre aprendendo, sempre crescendo — um commit de cada vez.
 
 ---
 
-⭐ Se gostou do meu trabalho, considere dar uma estrela em algum repositório  
-🤝 Sempre aberto a colaborações, parcerias e ideias legais
+
 
